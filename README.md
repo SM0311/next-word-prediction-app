@@ -1,6 +1,6 @@
 # Next Word Prediction App
 
-## Project Overviewhttps://github.com/SM0311/next-word-prediction-app/blob/main/README.md
+## Project Overview: 
 This project is a web application that predicts the next word in a sentence using a pre-trained LSTM (Long Short-Term Memory) model. The app enables users to input a sequence of words, and it generates the most likely next word based on the input text.
 
 ### Built With:
