@@ -62,11 +62,15 @@ streamlit run app.py
 next-word-prediction-app/
 ├── app.py                 # Main Streamlit app code
 
+
 ├── next_word_lstm.h5      # Pre-trained LSTM model (place in the root directory)
+
 
 ├── tokenizer.pickle       # Tokenizer file (place in the root directory)
 
+
 ├── requirements.txt       # List of required Python packages
+
 └── README.md              # Project documentation
 
 ## Technologies Used
